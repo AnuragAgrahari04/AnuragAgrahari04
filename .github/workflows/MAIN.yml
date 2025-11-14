@@ -1,0 +1,51 @@
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    # Runs every day at midnight UTC to update the snake
+    - cron: '0 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Check out your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate the snake animation
+      - name: Generate snake game
+        uses: Platane/snk@v3
+        with:
+          # --- THIS IS THE FIX ---
+          # Just type your username directly
+          github_user_name: AnuragAgrahari04
+          
+          # Your outputs look perfect
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 3. --- THIS IS THE NEW, REQUIRED STEP ---
+      # Commit and push the generated files back to your repo
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          # Check if there are changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "feat: update snake animation"
+            git push
+          else
+            echo "No changes to commit"
+          fi
