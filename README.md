@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>A passionate Software Engineer from India</h3>
+      <h3>A Passionate Ai developer | Software Engineer Enthusiast</h3>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=anuragagrahari04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
       </p>
@@ -19,10 +19,10 @@
     </td>
   </tr>
 </table>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
----
 
-### 🔗 Connect with me
+## 🌐 Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anurag-agrahari-a3b6552a6/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -32,10 +32,10 @@
   <a href="https://www.hackerrank.com/anurag_042004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/anurag_agrahari_11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 </p>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
----
 
-### 🛠️ Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 **Programming Languages:**
 
@@ -73,12 +73,13 @@
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40"/>  
 <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" width="40" height="40"/>  
 
----
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<h2>🔥 My Stats</h2>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <!-- GitHub Stats -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragagrahari04&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
@@ -91,7 +92,36 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragagrahari04&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p> -->
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=anuragagrahari04&show_icons=true&theme=radical" 
+        alt="Anurag's GitHub Stats" 
+      />
+    </td>
+    <td align="center" valign="top">
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://streak-stats.demolab.com/?user=anuragagrahari04&theme=radical" 
+          alt="GitHub Streak" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragagrahari04&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
 </p>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
 
 
 
