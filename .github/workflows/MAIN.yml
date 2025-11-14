@@ -15,9 +15,14 @@ on:
 
 jobs:
   generate:
+    # This permission is required to push the new snake files
+    permissions:
+      contents: write 
+      
     runs-on: ubuntu-latest
     steps:
-      # 1. Check out your repository
+      
+      # 1. This downloads your repository so the action can work on it
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -25,18 +30,12 @@ jobs:
       - name: Generate snake game
         uses: Platane/snk@v3
         with:
-          # --- THIS IS THE FIX ---
-          # Just type your username directly
           github_user_name: AnuragAgrahari04
-          
-          # Your outputs look perfect
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # 3. --- THIS IS THE NEW, REQUIRED STEP ---
-      # Commit and push the generated files back to your repo
+      # 3. Commit and push the generated files back to your repo
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
