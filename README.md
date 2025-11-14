@@ -122,6 +122,11 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/dist/github-snake.svg" />
+</picture>
 
 
 
