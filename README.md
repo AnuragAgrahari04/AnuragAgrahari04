@@ -55,6 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/> &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo" /> &nbsp;
 </p>
 
 **ML/DL & Data Tools:**
@@ -72,8 +73,12 @@
 
 **Platforms:**
 
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40"/>  
-<img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" width="40" height="40"/>  
+<p align="left">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" style="margin: 0 20px;"/>
+</p>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -100,14 +105,14 @@
   <tr>
     <td align="center" valign="top">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=anuragagrahari04&show_icons=true&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api?username=AnuragAgrahari04&show_icons=true&theme=radical" 
         alt="Anurag's GitHub Stats" 
       />
     </td>
     <td align="center" valign="top">
       <a href="https://git.io/streak-stats">
         <img 
-          src="https://streak-stats.demolab.com/?user=anuragagrahari04&theme=radical" 
+          src="https://streak-stats.demolab.com/?user=AnuragAgrahari04&theme=radical" 
           alt="GitHub Streak" 
         />
       </a>
@@ -117,7 +122,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragagrahari04&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAgrahari04&layout=compact&theme=radical" 
     alt="Top Languages" 
   />
 </p>
