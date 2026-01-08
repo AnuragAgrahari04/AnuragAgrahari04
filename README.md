@@ -101,7 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragagrahari04&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p> -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" valign="top">
       <img 
@@ -125,7 +125,20 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragAgrahari04&layout=compact&theme=radical" 
     alt="Top Languages" 
   />
+</p> -->
+
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnuragAgrahari04&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com/?user=AnuragAgrahari04&theme=radical" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnuragAgrahari04&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
