@@ -129,9 +129,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnuragAgrahari04&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com/?user=AnuragAgrahari04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnuragAgrahari04&show_icons=true&theme=radical" alt="Anurag's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=AnuragAgrahari04&theme=radical" alt="GitHub Streak" width="49%" />
 </div>
 
 <p align="center">
