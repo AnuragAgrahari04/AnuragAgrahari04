@@ -165,6 +165,7 @@ status      : "Actively seeking ML / GenAI internships & roles 🚀"
 [![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragAgrahari04)
 
 </div>
+<img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <div align="center">
   <i>⚡ "Every model is wrong, but the useful ones ship." — Anurag Agrahari</i>
