@@ -140,6 +140,14 @@ Full-stack AI healthcare platform built with **Django 4.2** and **scikit-learn**
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
+## 📊 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
 ## 🌐 Socials
 
 <p align="left">
