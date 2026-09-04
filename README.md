@@ -1,24 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Anurag Agrahari</h1>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h3>A Passionate Ai developer | Software Engineer Enthusiast</h3>
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=anuragagrahari04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-      </p>
-      <ul>
-        <li>🎯 I’m a college student with Machine Learning and AI expertise.</li>
-        <li>🧠 I'm currently learning diffusion model enhancement.</li>
-        <li>⚡ In my free time, I explore emerging technologies and industry innovations.</li>
-      </ul>
-      <p>📬 <strong>How to reach me</strong> - <a href="mailto:anurag.042004@gmail.com"><strong>anurag.042004@gmail.com</strong></a></p>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding guy" width="100%" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/light.svg">
+  <img alt="Anurag Agrahari" src="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/light.svg">
+</picture>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 
