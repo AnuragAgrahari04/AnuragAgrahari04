@@ -1,5 +1,5 @@
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/dark.svg"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/dark (1).svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/light.svg">
   <img alt="Anurag Agrahari" src="https://raw.githubusercontent.com/AnuragAgrahari04/AnuragAgrahari04/main/light.svg">
 </picture>
