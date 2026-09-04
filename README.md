@@ -81,10 +81,19 @@ status      : "Actively seeking ML / GenAI internships & roles 🚀"
 ## 🚀 Key Projects
 
 ### 🏛️ Gov-Complaint-Box
-Full-stack AI-powered government grievance management system enabling citizens to submit complaints via text, image, or voice. Automated urgency classification and department routing using **LLaMA3 (Groq)** + **LangChain**, with **Salesforce BLIP** for image captioning, **Groq Whisper** for voice transcription, and **Sentence Transformers** for duplicate detection. React admin portal featuring analytics and a geo-heatmap, deployed on Render + Vercel.
+*A full-stack AI-powered government grievance management system enabling citizens to submit complaints via text, image, or voice.*
+
+- Automated urgency classification and department routing using **LLaMA3 (Groq)** and **LangChain**.
+- Integrated **Salesforce BLIP** for image captioning, **Groq Whisper** for voice transcription, and **Sentence Transformers** for duplicate detection.
+- Built a React admin portal featuring analytics, a geo-heatmap, and real-time notifications, deployed on **Render** and **Vercel**.
 
 ### 🏥 Medicate
-Full-stack AI healthcare platform built with **Django 4.2** and **scikit-learn**, achieving **97% disease prediction accuracy** across 42 diseases from 132 symptoms. End-to-end doctor appointment booking with OTP verification, admin approval workflows, real-time WebSocket chat, and video consultations via **Agora SDK**. Integrated a **Gemini-powered AI medical assistant** and live doctor discovery via OpenStreetMap. Deployed on Render with PostgreSQL, Redis, and Daphne ASGI.
+*A full-stack AI healthcare platform achieving 97% disease prediction accuracy across 42 diseases from 132 symptoms.*
+
+- Built with **Django 4.2** and **scikit-learn**, with end-to-end doctor appointment booking, OTP email verification, and admin approval workflows.
+- Implemented real-time **WebSocket chat** and video consultations via **Agora SDK**.
+- Integrated a **Gemini-powered AI medical assistant** and live doctor discovery via OpenStreetMap; deployed on Render with **PostgreSQL**, **Redis**, and **Daphne ASGI** with zero manual server management.
+
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -119,13 +128,6 @@ Full-stack AI healthcare platform built with **Django 4.2** and **scikit-learn**
 </p>
 
 
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragAgrahari04&bg_color=141321&color=fe428e&line=f8d847&point=ffffff&area=true&hide_border=true" />
-</div>
-
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 ## 🐍 Contribution Snake
@@ -148,16 +150,21 @@ Full-stack AI healthcare platform built with **Django 4.2** and **scikit-learn**
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-## 🌐 Socials
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anurag-agrahari-a3b6552a6/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/anuragagrahari2003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/anurag_agrahari_04" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/ideal_apple_04" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile"/></a>
-  <a href="https://www.hackerrank.com/anurag_042004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/anurag042004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anurag-agrahari-a3b6552a6/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0A101F?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anuragagrahari2003)
+[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/anurag_agrahari_04)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0A101F?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/ideal_apple_04)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0A101F?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/anurag_042004)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0A101F?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/anurag042004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Agrahari_04/)
+[![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anurag.042004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragAgrahari04)
+
+</div>
 
 <div align="center">
   <i>⚡ "Every model is wrong, but the useful ones ship." — Anurag Agrahari</i>
